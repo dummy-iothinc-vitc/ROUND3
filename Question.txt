@@ -1,0 +1,17 @@
+Scorpion who managed to survive has returned to the earth realm in search of vengeance. There he meets the now resurrected Quan Chi who also wants to capture Liu Kang. 
+They both form an alliance as a part of which Quan Chi decides to give Scorpion a clue. 
+Quan Chi gives Scorpion 2 lists of numbers using which Scorpion has to find the 3rd list which would reveal the island name where Liu Kang is. 
+Quan Chi tells Scorpion that all the elements in the second list are distinct and are also present in the first list and asks Scorpion to sort the first array relative to the second array 
+i.e Relative ordering of elements in the first list should be the same as in the second list. The numbers that don't appear in the second list should be placed at the end of the first list in the non-decreasing order. 
+By following this procedure, Scorpion will be able to produce the desired third list of numbers. 
+Quan Chi further assures him that all the numbers in each of the lists are from 1 to 27 (Inclusive).
+
+Eg:
+Example 0:
+INPUT:
+List-1: 11,8,21,7,24,10,2,8,24,21,1,21,3
+List-2: 2,21,3,8,7
+OUPTUT:
+List-3: 2,21,21,21,3,8,8,7,1,10,11,24,24
+
+Finally before leaving Quan Chi tells Scorpion that the island name contains only the 26 lower case english alphabets and the special character '/' which could be considered as the 27th character. He wishes him luck and departs. Could you help Scorpion exact revenge?
